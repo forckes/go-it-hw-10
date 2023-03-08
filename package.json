@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/forckes/go-it-hw-10/issues"
 	},
-	"homepage": "https://github.com/forckes/go-it-hw-10#readme",
+	"homepage": "https://github.com/forckes/go-it-hw-10",
 	"dependencies": {
 		"lodash.debounce": "^4.0.8",
 		"modern-normalize": "^1.1.0",
